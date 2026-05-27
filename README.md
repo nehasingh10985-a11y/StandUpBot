@@ -10,12 +10,30 @@
 
 ## 📸 Preview
 
-![StandupBot Dashboard](https://via.placeholder.com/1200x500?text=StandupBot+Dashboard)
+## 📸 Preview
 
-| Dashboard                                                        | Submit                                                             | Weekly Summary                                                     |
-| ---------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------ |
-| ![Dashboard](https://via.placeholder.com/380x220?text=Dashboard) | ![Submit](https://via.placeholder.com/380x220?text=Submit+Standup) | ![Weekly](https://via.placeholder.com/380x220?text=Weekly+Summary) |
-
+<table>
+  <tr>
+    <td width="50%">
+      <p align="center"><b>📊 Main Dashboard</b></p>
+      <img src="./path-to-images/dashboard.png" alt="Dashboard" width="100%">
+    </td>
+    <td width="50%">
+      <p align="center"><b>💬 Slack Integration & AI Alerts</b></p>
+      <img src="./path-to-images/slack-alert.jpg" alt="Slack Integration" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <p align="center"><b>📋 AI-Generated Weekly Summary</b></p>
+      <img src="./path-to-images/weekly-summary.png" alt="Weekly Summary" width="100%">
+    </td>
+    <td width="50%">
+      <p align="center"><b>📈 Team Analytics & Blockers</b></p>
+      <img src="./path-to-images/analytics.png" alt="Analytics" width="100%">
+    </td>
+  </tr>
+</table>
 ---
 
 ## ✨ Features
