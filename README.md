@@ -8,27 +8,29 @@
 
 ---
 ## 📸 Preview
+## 📸 Preview
 
 <table>
   <tr>
     <td width="50%">
       <p align="center"><b>📊 Main Dashboard</b></p>
-      <img src="https://github.com/nehasingh10985-a11y/StandUpBot/blob/main/frontend/src/assets/images/Screenshot%202026-05-27%20181225.png " alt="Dashboard" width="100%">
+      <img src="./frontend/src/assets/images/Screenshot%202026-05-27%20181225.png" alt="Dashboard" width="100%">
     </td>
     <td width="50%">
       <p align="center"><b>💬 Slack Integration & AI Alerts</b></p>
-      <img src=" https://github.com/nehasingh10985-a11y/StandUpBot/blob/main/frontend/src/assets/images/Screenshot%202026-05-27%20182956.png " alt="Slack Integration" width="100%">
+      <!-- Note: Agar ye image .png hai toh .png hi rehne dein, agar .jpg hai toh niche .jpg kar lena -->
+      <img src="./frontend/src/assets/images/Screenshot%202026-05-27%20182956.jpg" alt="Slack Integration" width="100%">
     </td>
   </tr>
   <tr>
     <td width="50%">
       <p align="center"><b>📋 AI-Generated Weekly Summary</b></p>
-      <img src=" https://github.com/nehasingh10985-a11y/StandUpBot/blob/main/frontend/src/assets/images/Screenshot%202026-05-27%20181328.png " alt="Weekly Summary" width="100%">
+      <img src="./frontend/src/assets/images/Screenshot%202026-05-27%20181328.png" alt="Weekly Summary" width="100%">
     </td>
     <td width="50%">
       <p align="center"><b>📈 Team Analytics & Blockers</b></p>
-      <img src=" https://github.com/nehasingh10985-a11y/StandUpBot/blob/main/frontend/src/assets/images/Screenshot%202026-05-27%20183153.png " alt="Analytics" width="100%">
-        <img src=" https://github.com/nehasingh10985-a11y/StandUpBot/blob/main/frontend/src/assets/images/Screenshot%202026-05-27%20183206.png " alt="Analytics" width="100%">
+      <img src="./frontend/src/assets/images/Screenshot%202026-05-27%20183153.png" alt="Analytics 1" width="100%">
+      <img src="./frontend/src/assets/images/Screenshot%202026-05-27%20183206.png" alt="Analytics 2" width="100%" style="margin-top: 10px;">
     </td>
   </tr>
 </table>
