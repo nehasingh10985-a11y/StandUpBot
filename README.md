@@ -7,9 +7,6 @@
 **React** **Node.js** **MongoDB** **Groq AI** **Slack**
 
 ---
-
-## 📸 Preview
-
 ## 📸 Preview
 
 <table>
