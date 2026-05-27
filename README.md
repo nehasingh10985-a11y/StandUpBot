@@ -19,7 +19,7 @@
     <td width="50%">
       <p align="center"><b>💬 Slack Integration & AI Alerts</b></p>
       <!-- Note: Agar ye image .png hai toh .png hi rehne dein, agar .jpg hai toh niche .jpg kar lena -->
-      <img src="./frontend/src/assets/images/Screenshot%202026-05-27%20182956.jpg" alt="Slack Integration" width="100%">
+      <img src="./frontend/src/assets/images/Screenshot%202026-05-27%20182956.png" alt="Slack Integration" width="100%">
     </td>
   </tr>
   <tr>
