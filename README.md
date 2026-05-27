@@ -1,8 +1,5 @@
 # StandupBot 🤖
-<<<<<<< HEAD
-=======
 
->>>>>>> ac24fd8 ( adding README.md file)
 ### Async Team Standup Tool with AI + Slack
 
 > Submit standups. Detect blockers. Notify your team. All automated.
@@ -15,13 +12,8 @@
 
 ![StandupBot Dashboard](https://via.placeholder.com/1200x500?text=StandupBot+Dashboard)
 
-<<<<<<< HEAD
-| Dashboard | Submit | Weekly Summary |
-|---|---|---|
-=======
 | Dashboard                                                        | Submit                                                             | Weekly Summary                                                     |
 | ---------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------ |
->>>>>>> ac24fd8 ( adding README.md file)
 | ![Dashboard](https://via.placeholder.com/380x220?text=Dashboard) | ![Submit](https://via.placeholder.com/380x220?text=Submit+Standup) | ![Weekly](https://via.placeholder.com/380x220?text=Weekly+Summary) |
 
 ---
@@ -29,20 +21,14 @@
 ## ✨ Features
 
 ### 🔐 Authentication
-<<<<<<< HEAD
-=======
 
->>>>>>> ac24fd8 ( adding README.md file)
 - Register with name, email, password, team name and role
 - JWT secured sessions
 - Team-scoped data — only your team's standups visible
 - Slack notification when new member joins
 
 ### 📝 Daily Standups
-<<<<<<< HEAD
-=======
 
->>>>>>> ac24fd8 ( adding README.md file)
 - Submit Yesterday, Today, Blockers in under 2 minutes
 - AI (Groq Llama 3.3) classifies every blocker automatically
 - Severity levels — 🚨 Critical / ⚠️ Moderate / 👀 Watch / ✅ None
@@ -50,10 +36,7 @@
 - Delete your own standup — others cannot touch yours
 
 ### 💬 Slack Integration
-<<<<<<< HEAD
-=======
 
->>>>>>> ac24fd8 ( adding README.md file)
 - New standup submitted → Slack notification
 - Standup edited → Slack notification with what changed
 - Standup deleted → Slack notification
@@ -61,10 +44,7 @@
 - 9 AM daily reminder → who has and hasn't submitted
 
 ### 📊 Dashboard
-<<<<<<< HEAD
-=======
 
->>>>>>> ac24fd8 ( adding README.md file)
 - Team metrics — Total, Blocked, On Track, Critical
 - Filter by Today / Week / Month / All Time
 - Search by team member name
@@ -72,38 +52,26 @@
 - Role and team name on every standup card
 
 ### 📜 History
-<<<<<<< HEAD
-=======
 
->>>>>>> ac24fd8 ( adding README.md file)
 - Full standup history with role badges and team names
 - Edited indicator with diff view
 - Export to CSV — one click download
 
 ### 📈 Analytics
-<<<<<<< HEAD
-=======
 
->>>>>>> ac24fd8 ( adding README.md file)
 - Area chart — daily standups vs blockers trend
 - Donut chart — AI severity breakdown
 - Member activity ranking with progress bars
 - Blocker rate calculation
 
 ### 👥 Members & Blockers
-<<<<<<< HEAD
-=======
 
->>>>>>> ac24fd8 ( adding README.md file)
 - Member cards with role, stats, on-track percentage
 - Active blockers sorted by severity
 - AI action needed per blocker
 
 ### 📋 Weekly Summary
-<<<<<<< HEAD
-=======
 
->>>>>>> ac24fd8 ( adding README.md file)
 - Auto-generates every Friday 6:00 PM IST
 - AI summarizes — critical issues, wins, recommendation
 - Posts to Slack automatically
@@ -289,10 +257,6 @@ MIT License — feel free to use and modify.
 
 ---
 
-<<<<<<< HEAD
-*Built with ❤️ for teams who want standups without the meetings*
-=======
 _Built with ❤️ for teams who want standups without the meetings_
->>>>>>> ac24fd8 ( adding README.md file)
 
 ⭐ Give it a star if you found it useful!
