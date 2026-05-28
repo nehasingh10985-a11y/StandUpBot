@@ -8,7 +8,6 @@
 
 ---
 ## 📸 Preview
-## 📸 Preview
 
 <table>
   <tr>
@@ -236,36 +235,12 @@ POST   /api/weekly/generate        →  Generate manually
 
 GET    /api/health                 →  Health check
 ```
-
----
-
 ## ⚡ Cron Jobs
 
 ```
 Every day   9:00 AM IST  →  Slack reminder — who submitted today
 Every Fri   6:00 PM IST  →  AI weekly summary → Slack + Dashboard
 ```
-
----
-
-## 🚢 Deployment
-
-```
-Frontend  →  Vercel       (npm run build → deploy /dist)
-Backend   →  Render       (node server.js, free tier)
-Database  →  MongoDB Atlas (free M0 cluster)
-```
-
-Add `VITE_API_URL=https://your-backend.onrender.com` to Vercel environment variables.
-
----
-
-## 👩‍💻 Author
-
-**Neha Singh**
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/yourusername)
 
 ---
 
